@@ -1,8 +1,15 @@
-# cn / 徐璽恩
+# 自我介紹
+## 姓名 : 徐璽恩
+## 興趣 : 
 
-## 興趣 
-下圍棋, 彈吉他, 健身, 閱讀
+### 1.彈吉他 (左邊第一位是我哈哈)
+![](https://i.imgur.com/Wc6zGhf.jpg)
 
-### 請多指教~~
+### 2.運動
+![](https://i.imgur.com/zw2A2iY.jpg)
 
-#### 第一次測試
+### 3.拍照 
+![](https://i.imgur.com/sqkKbCl.jpg)
+
+### 4.旅遊
+![](https://i.imgur.com/sa8w4s9.jpg)
